@@ -3,7 +3,9 @@
 run (in the cloned dir)
 
 `npm i`
+
 `npm i -g webpack-dev-server`
+
 `webpack-dev-server`
 
 Then go to `http://localhost:8080`
