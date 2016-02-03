@@ -1,0 +1,3 @@
+[submodule "dagre-react"]
+  path = dagre-react
+  url = https://github.com/osnr/dagre-react
